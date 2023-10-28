@@ -1,0 +1,374 @@
+{
+  "movies": 
+    {
+      "popular": [ {
+        "harry" :  {
+          "title" : "HarryPotter" , 
+          "rate" : "7.6" , 
+          "unelgee" : "L" ,
+          "subscription" :"yes",
+          "priority" :"yes",
+          "img":"img.jpg"
+        }
+        } ,
+        {
+          "piratesOfTheKings" : [ {
+            "title" : "HarryPotter2" , 
+            "rate" : "7.6" , 
+            "unelgee" : "L" ,
+            "subscription" :"yes",
+            "priority" :"yes",
+            "img":"img.jpg"
+          }
+          ]} ,
+          {
+            "piratesOfTheKings" : [ {
+              "title" : "HarryPotter3" , 
+              "rate" : "7.6" , 
+              "unelgee" : "L" ,
+              "subscription" :"yes",
+              "priority" :"yes",
+              "img":"img.jpg"
+            }
+            ]},
+            {
+              "piratesOfTheKings" : [ {
+                "title" : "HarryPotter4" , 
+                "rate" : "7.6" , 
+                "unelgee" : "L" ,
+                "subscription" :"yes",
+                "priority" :"yes",
+                "img":"img.jpg"
+              }
+              ]},
+              {
+                "piratesOfTheKings" : [ {
+                  "title" : "HarryPotter5" , 
+                  "rate" : "7.6" , 
+                  "unelgee" : "L" ,
+                  "subscription" :"yes",
+                  "priority" :"yes",
+                  "img":"img.jpg"
+                }
+                ]},
+                {
+                  "piratesOfTheKings" : [ {
+                    "title" : "piratesOfTheKings" , 
+                    "rate" : "7.6" , 
+                    "unelgee" : "L" ,
+                    "subscription" :"yes",
+                    "priority" :"yes",
+                    "img":"img.jpg"
+                  }
+                  ]},
+                  {
+                    "piratesOfTheKings" : [ {
+                      "title" : "piratesOfTheKings" , 
+                      "rate" : "7.6" , 
+                      "unelgee" : "L" ,
+                      "subscription" :"yes",
+                      "priority" :"yes",
+                      "img":"img.jpg"
+                    }
+                    ]},
+                    {
+                      "piratesOfTheKings" : [ {
+                        "title" : "piratesOfTheKings" , 
+                        "rate" : "7.6" , 
+                        "unelgee" : "L" ,
+                        "subscription" :"yes",
+                        "priority" :"yes",
+                        "img":"img.jpg"
+                      }
+                      ]},
+                      {
+                        "piratesOfTheKings" : [ {
+                          "title" : "piratesOfTheKings" , 
+                          "rate" : "7.6" , 
+                          "unelgee" : "L" ,
+                          "subscription" :"yes",
+                          "priority" :"yes",
+                          "img":"img.jpg"
+                        }
+                        ]}
+      ] , 
+      "novalties" : [
+        {
+          "piratesOfTheKings" : [ {
+            "title" : "piratesOfTheKings" , 
+            "rate" : "7.6" , 
+            "unelgee" : "L" ,
+            "subscription" :"yes",
+            "priority" :"yes",
+            "img":"img.jpg"
+          }
+          ]} ,
+          {
+            "piratesOfTheKings" : [ {
+              "title" : "piratesOfTheKings" , 
+              "rate" : "7.6" , 
+              "unelgee" : "L" ,
+              "subscription" :"yes",
+              "priority" :"yes",
+              "img":"img.jpg"
+            }
+            ]} ,
+            {
+              "piratesOfTheKings" : [ {
+                "title" : "piratesOfTheKings" , 
+                "rate" : "7.6" , 
+                "unelgee" : "L" ,
+                "subscription" :"yes",
+                "priority" :"yes",
+                "img":"img.jpg"
+              }
+              ]},
+              {
+                "piratesOfTheKings" : [ {
+                  "title" : "piratesOfTheKings" , 
+                  "rate" : "7.6" , 
+                  "unelgee" : "L" ,
+                  "subscription" :"yes",
+                  "priority" :"yes",
+                  "img":"img.jpg"
+                }
+                ]},
+                {
+                  "piratesOfTheKings" : [ {
+                    "title" : "piratesOfTheKings" , 
+                    "rate" : "7.6" , 
+                    "unelgee" : "L" ,
+                    "subscription" :"yes",
+                    "priority" :"yes",
+                    "img":"img.jpg"
+                  }
+                  ]},
+                  {
+                    "piratesOfTheKings" : [ {
+                      "title" : "piratesOfTheKings" , 
+                      "rate" : "7.6" , 
+                      "unelgee" : "L" ,
+                      "subscription" :"yes",
+                      "priority" :"yes",
+                      "img":"img.jpg"
+                    }
+                    ]},
+                    {
+                      "piratesOfTheKings" : [ {
+                        "title" : "piratesOfTheKings" , 
+                        "rate" : "7.6" , 
+                        "unelgee" : "L" ,
+                        "subscription" :"yes",
+                        "priority" :"yes",
+                        "img":"img.jpg"
+                      }
+                      ]},
+                      {
+                        "piratesOfTheKings" : [ {
+                          "title" : "piratesOfTheKings" , 
+                          "rate" : "7.6" , 
+                          "unelgee" : "L" ,
+                          "subscription" :"yes",
+                          "priority" :"yes",
+                          "img":"img.jpg"
+                        }
+                        ]},
+                        {
+                          "piratesOfTheKings" : [ {
+                            "title" : "piratesOfTheKings" , 
+                            "rate" : "7.6" , 
+                            "unelgee" : "L" ,
+                            "subscription" :"yes",
+                            "priority" :"yes",
+                            "img":"img.jpg"
+                          }
+                          ]}
+
+      ] , 
+      "thebestfilms" : [
+        {
+          "piratesOfTheKings" : [ {
+            "title" : "piratesOfTheKings" , 
+            "rate" : "7.6" , 
+            "unelgee" : "L" ,
+            "subscription" :"yes",
+            "priority" :"yes",
+            "img":"img.jpg"
+          }
+          ]} ,
+          {
+            "piratesOfTheKings" : [ {
+              "title" : "piratesOfTheKings" , 
+              "rate" : "7.6" , 
+              "unelgee" : "L" ,
+              "subscription" :"yes",
+              "priority" :"yes",
+              "img":"img.jpg"
+            }
+            ]} ,
+            {
+              "piratesOfTheKings" : [ {
+                "title" : "piratesOfTheKings" , 
+                "rate" : "7.6" , 
+                "unelgee" : "L" ,
+                "subscription" :"yes",
+                "priority" :"yes",
+                "img":"img.jpg"
+              }
+              ]},
+              {
+                "piratesOfTheKings" : [ {
+                  "title" : "piratesOfTheKings" , 
+                  "rate" : "7.6" , 
+                  "unelgee" : "L" ,
+                  "subscription" :"yes",
+                  "priority" :"yes",
+                  "img":"img.jpg"
+                }
+                ]},
+                {
+                  "piratesOfTheKings" : [ {
+                    "title" : "piratesOfTheKings" , 
+                    "rate" : "7.6" , 
+                    "unelgee" : "L" ,
+                    "subscription" :"yes",
+                    "priority" :"yes",
+                    "img":"img.jpg"
+                  }
+                  ]},
+                  {
+                    "piratesOfTheKings" : [ {
+                      "title" : "piratesOfTheKings" , 
+                      "rate" : "7.6" , 
+                      "unelgee" : "L" ,
+                      "subscription" :"yes",
+                      "priority" :"yes",
+                      "img":"img.jpg"
+                    }
+                    ]},
+                    {
+                      "piratesOfTheKings" : [ {
+                        "title" : "piratesOfTheKings" , 
+                        "rate" : "7.6" , 
+                        "unelgee" : "L" ,
+                        "subscription" :"yes",
+                        "priority" :"yes",
+                        "img":"img.jpg"
+                      }
+                      ]},
+                      {
+                        "piratesOfTheKings" : [ {
+                          "title" : "piratesOfTheKings" , 
+                          "rate" : "7.6" , 
+                          "unelgee" : "L" ,
+                          "subscription" :"yes",
+                          "priority" :"yes",
+                          "img":"img.jpg"
+                        }
+                        ]},
+                        {
+                          "piratesOfTheKings" : [ {
+                            "title" : "piratesOfTheKings" , 
+                            "rate" : "7.6" , 
+                            "unelgee" : "L" ,
+                            "subscription" :"yes",
+                            "priority" :"yes",
+                            "img":"img.jpg"
+                          }
+                          ]}
+      ] ,
+      "recommendations" : [
+        {
+          "piratesOfTheKings" : [ {
+            "title" : "piratesOfTheKings" , 
+            "rate" : "7.6" , 
+            "unelgee" : "L" ,
+            "subscription" :"yes",
+            "priority" :"yes",
+            "img":"img.jpg"
+          }
+          ]} ,
+          {
+            "piratesOfTheKings" : [ {
+              "title" : "piratesOfTheKings" , 
+              "rate" : "7.6" , 
+              "unelgee" : "L" ,
+              "subscription" :"yes",
+              "priority" :"yes",
+              "img":"img.jpg"
+            }
+            ]} ,
+            {
+              "piratesOfTheKings" : [ {
+                "title" : "piratesOfTheKings" , 
+                "rate" : "7.6" , 
+                "unelgee" : "L" ,
+                "subscription" :"yes",
+                "priority" :"yes",
+                "img":"img.jpg"
+              }
+              ]},
+              {
+                "piratesOfTheKings" : [ {
+                  "title" : "piratesOfTheKings" , 
+                  "rate" : "7.6" , 
+                  "unelgee" : "L" ,
+                  "subscription" :"yes",
+                  "priority" :"yes",
+                  "img":"img.jpg"
+                }
+                ]},
+                {
+                  "piratesOfTheKings" : [ {
+                    "title" : "piratesOfTheKings" , 
+                    "rate" : "7.6" , 
+                    "unelgee" : "L" ,
+                    "subscription" :"yes",
+                    "priority" :"yes",
+                    "img":"img.jpg"
+                  }
+                  ]},
+                  {
+                    "piratesOfTheKings" : [ {
+                      "title" : "piratesOfTheKings" , 
+                      "rate" : "7.6" , 
+                      "unelgee" : "L" ,
+                      "subscription" :"yes",
+                      "priority" :"yes",
+                      "img":"img.jpg"
+                    }
+                    ]},
+                    {
+                      "piratesOfTheKings" : [ {
+                        "title" : "piratesOfTheKings" , 
+                        "rate" : "7.6" , 
+                        "unelgee" : "L" ,
+                        "subscription" :"yes",
+                        "priority" :"yes",
+                        "img":"img.jpg"
+                      }
+                      ]},
+                      {
+                        "piratesOfTheKings" : [ {
+                          "title" : "piratesOfTheKings" , 
+                          "rate" : "7.6" , 
+                          "unelgee" : "L" ,
+                          "subscription" :"yes",
+                          "priority" :"yes",
+                          "img":"img.jpg"
+                        }
+                        ]},
+                        {
+                          "piratesOfTheKings" : [ {
+                            "title" : "piratesOfTheKings" , 
+                            "rate" : "7.6" , 
+                            "unelgee" : "L" ,
+                            "subscription" :"yes",
+                            "priority" :"yes",
+                            "img":"img.jpg"
+                          }
+                          ]}
+      ]
+    }
+
+}
